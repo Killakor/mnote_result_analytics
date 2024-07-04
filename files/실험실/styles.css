@@ -52,7 +52,7 @@
   left:0px;
   top:0px;
   width:1170px;
-  height:30px;
+  height:35px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -78,10 +78,10 @@
 #u1705 {
   border-width:0px;
   position:absolute;
-  left:235px;
-  top:130px;
+  left:227px;
+  top:96px;
   width:1170px;
-  height:30px;
+  height:35px;
   display:flex;
   font-family:'Noto Sans KR', sans-serif;
   font-weight:400;
@@ -105,7 +105,7 @@
 #u1706 {
   position:absolute;
   left:1208px;
-  top:137px;
+  top:106px;
 }
 #u1706_state0 {
   position:relative;
